@@ -1,0 +1,27 @@
+body{
+    background:greenyellow;
+    text-align: center;
+}
+
+
+h2 , h3 {
+    background:green;
+    text-transform: capitalize;
+    margin:6%;
+    border-radius: 10px;
+    color:white;
+    text-shadow: -1px, -1px solid black;
+}
+h1{
+    text-transform: uppercase;
+     text-align: center;
+     color:blueviolet;
+}
+a{
+    background:royalblue;
+    text-transform: capitalize;
+    padding-left: 18px;
+    padding-right: 18px;
+    color:white;
+    margin-top:10px;
+}
